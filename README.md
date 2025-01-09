@@ -1,2 +1,2 @@
 # Obsidian-Files
-A repository consisting of my DSA prep codes
+A repository consisting of obsidian notes
