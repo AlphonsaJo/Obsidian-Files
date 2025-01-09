@@ -1,2 +1,2 @@
 # Obsidian-Files
-A repository consisting of obsidian notes
+A repository consisting of my obsidian notes
